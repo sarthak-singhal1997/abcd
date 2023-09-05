@@ -13,7 +13,7 @@ function App() {
 
   const togglemode = () =>{
     if(color === 'dark'){setcolor('light')}
-    else{setcolor('dark')}
+    else{setcolor('blue')}
 
   }
 
